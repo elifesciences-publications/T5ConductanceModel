@@ -1,3 +1,6 @@
+### This code is associated with the paper from Gruntman et al., "The computation of directional selectivity in the Drosophila OFF motion pathway". eLife, 2019. http://dx.doi.org/10.7554/eLife.50706
+
+
 # T5ConductanceModel
 
 This repository contains the Matlab code to generate the model data used in "The computation of directional selectivity in the Drosophila OFF motion pathway", by Gruntman, Romani, and Reiser (2019).
